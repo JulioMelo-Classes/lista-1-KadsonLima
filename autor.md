@@ -2,9 +2,9 @@
 
 Preencha os dados abaixo para identificar a autoria do trabalho.
 
-- Nome: *\<insira seu nome aqui>*
-- Email: *\<insira seu email aqui>*
-- Turma: *\<insira sua turma aqui>*
+- Nome: Kadson Kaio de Lima Dantas
+- Email: kadson-kaio@hotmail.com
+- Turma: 01
 
 # Questões Finalizadas
 
